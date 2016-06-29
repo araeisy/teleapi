@@ -234,26 +234,23 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {157059515,103214508},--Sudo users
+    sudo_users = {195801672},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Api TeleBeyond V1.0 Open Source
-An Advanced Administration Api Bot Based On TeleSeed Written In Lua
+An Advanced Administration Api Bot Written In Lua
 
 Source On GitHub :
-http://GitHub.com/BeyondTeam/Api-TeleBeyond
+soon...
 
 Sudo Users :
 
-Developer&Founder : @SoLiD021
-
-Developer&Manager : @idivanmanheb
+Developer&Founder : @XHACKERX
 
 Team Channel :
-Telegram.me/BeyondTeam
+Telegram.me/TeleAgent
 
 Special Thx To :
-@MrHalix
-@TeleProTeam
+Amir
 And All My Friends :D
 ]],
     help_text_realm = [[
@@ -338,9 +335,9 @@ This command will send text to [group_id]
 *Only admins and sudo can use kick,ban,unban,newlink,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only admins and sudo can use res, setowner, commands
-TeleBeyond V1.0
-Channel : @BeyondTeam
-Source : GitHub.com/BeyondTeam/Api-TeleBeyond
+TeleAgent API V1.0
+Channel : @TeleAgent_Team
+Source : Soon
 ]],
     help_text = [[
 Commands list :
@@ -469,9 +466,9 @@ will return group ban list
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
 *Only owner can use res,setowner,promote,demote and log commands
-TeleBeyond V1.0
-Channel : @BeyondTeam
-Source : GitHub.com/BeyondTeam/Api-TeleBeyond
+TeleAgent API V1.0
+Channel : @TeleAgent_Team
+Source : Soon
 ]],
 	help_text_super =[[
 SuperGroup Commands:
@@ -608,9 +605,9 @@ Returns group logs
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 
 *Only owner can use res, setowner, promote, demote, and log commands
-TeleBeyond V1.0
-Channel : @BeyondTeam
-Source : GitHub.com/BeyondTeam/Api-TeleBeyond
+TeleAgent API V1.0
+Channel : @TeleAgent_Team
+Source : Soon
 ]],
   }
   serialize_to_file(config, './data/config.lua')
