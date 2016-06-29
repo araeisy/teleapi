@@ -1,22 +1,22 @@
 do
 
 function run(msg, matches)
-  return 'TeleBeyond Api Bot v1.0'.. [[ 
-An Advanced Administration Api Bot Based On TeleSeed
-
-First Time Open Source By @SoLiD021 & @idivanmanheb
-
-Source On GitHub :
-http://GitHub.com/BeyondTeam/Api-TeleBeyond
-
-Sudo Users :
-
-Developer&Founder : @SoLiD021
-
-Helper&Manager : @idivanmanheb
-
-Team Channel :
-Telegram.me/BeyondTeam]]
+  return ''.. [[ 
+T e l e A g e n t
+=============
+> API Bot
+> Languages = FA , EN
+=============
+Official channel: @TeleAgent_Team
+made with : Lua
+=============
+SUDO & Developer:
+@XHACKERX
+=============
+Bot Version:
+1.0
+=============
+TeleAgent Team]]
 end
 
 return {
